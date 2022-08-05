@@ -96,9 +96,7 @@ wp-content/plugins/*
 
 # ignore specific themes
 wp-content/themes/*
-!wp-content/themes/buddyboss-theme-child
-wp-content/themes/buddyboss-theme-child/vendor/
-wp-content/themes/buddyboss-theme-child/composer.lock
+!wp-content/themes/twentytwentytwo-child
 
 # ignore node/grunt dependency directories
 node_modules/
